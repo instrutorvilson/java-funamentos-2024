@@ -1,0 +1,32 @@
+JSE
+  Standard Edition
+  -aplicações desktop
+JEE
+ -Enterprise Edition
+  -sites e aplicativo celulares
+JME
+ Micro Edition
+ - sistemas embarcados
+
+-----
+c# --> compila programa -> .exe -> executado pelo SO
+
+java --> compila programa -> .class (bytecode) -> JVM
+
+.java -> compila -> .class
+
+.class -> JVM -> interpretar e executar baseado no SO
+
+c#
+-----
+exe
+----
+so
+
+java
+------
+.java -> class(bytecode)
+-----------
+JVM
+--------------
+SO
